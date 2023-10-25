@@ -1,0 +1,8 @@
+{
+  "deviceName": "{{deviceName}}",
+  "app": "{{app}}",
+  "platformName": "Android",
+  "resetKeyboard": "true",
+  "unicodeKeyboard": "true",
+  "deviceId": "192.168.0.49:5555"
+}
